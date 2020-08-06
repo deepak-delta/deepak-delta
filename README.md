@@ -41,4 +41,4 @@
 <code><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg"></code>
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deepak-delta&show_icons=true&hide=contribs border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deepak-delta&hide=contribs,prs" />
