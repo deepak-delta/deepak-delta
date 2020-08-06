@@ -42,5 +42,5 @@
 <code><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg"></code>
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deepak-delta&hide=contribs&show_icons=true&hide_border=true" />
-<br />
+<br /><br />
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-delta&layout=compact&hide_border=true" />
