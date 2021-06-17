@@ -6,19 +6,16 @@
 - 🎓 &nbsp; Studying Computer Science Engineering.
 - 🌱 &nbsp; Learning more about Cloud Architecture, IoT and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Video Editing and Photography as hobbies.
-- 👯 &nbsp; I’m looking to collaborate on IoT projects and Web Dev stuff.
 - ⚡ &nbsp; Fun fact: Jack of all trades , Master of None !
-- 💼 &nbsp; [Open World: Freelance](https://www.fiverr.com/alpha_bit85)
 
 ## Technologies :fire:
 
-- Mobile application development using **React Native and Flutter**.
+- Mobile application development using **React Native**.
 - Python.
-- Competitive Programming.
 - Machine Learning
 - Web Development
 - IoT
-- Embedded Programming
+
 
 ## Languages and Tools:
 
