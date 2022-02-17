@@ -1,41 +1,6 @@
 <h2 align="Center">  Hi there, I'm Deepak D Krishna <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
-<h3> 👨🏻‍💻 About Me </h3>
- 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science Engineering.
-- 🌱 &nbsp; Learning more about Cloud Architecture, IoT and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Video Editing and Photography as hobbies.
-- ⚡ &nbsp; Fun fact: Jack of all trades , Master of None !
 
-## Technologies :fire:
-
-- Mobile application development using **React Native**.
-- Python.
-- Machine Learning
-- Web Development
-- IoT
-
-
-## Languages and Tools:
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-
-<code><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg"></code>
 
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deepak-delta&hide=contribs&show_icons=true&hide_border=true" />
